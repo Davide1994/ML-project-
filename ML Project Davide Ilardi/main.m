@@ -1,6 +1,8 @@
 function main(Ntr,nPhoto)  
     % Ntr is the number of elements in the DataSet
-    % nPhoto is the number of photos we want to process
+    % nPhoto is the number of photos we want to process in
+    % "PhotoToBeProcessed" folder
+    % so, try running "main(867,6)"
     load('SE.mat');
     load('FE.mat');
     % SE and FE are the starting and final eigenvalues of every block we 

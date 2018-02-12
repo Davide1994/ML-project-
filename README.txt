@@ -11,6 +11,6 @@ In "ML Project Davide Ilardi" you can find several subfolders:
 - PlatesIdentified = here, after computation, you will find the 200x80 images extracted from the photos belonging to 
 		"PhotoToBeProcessed" and labelled with 1, so identified as license plates.
 
-From the computational point of view, I think I added several comments on the "main.m" script from which you will 
-		understand the variables' meaning and the different functions' goals. Then, executing only "main.m", you
+From the computational point of view, I think I added several comments in "main.m" script, from which you will 
+		understand the variables' meaning and the different functions' goals. So, executing only "main.m", you
 		will be able to obtain the wanted results without any problem.
